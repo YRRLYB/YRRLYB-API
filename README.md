@@ -8,7 +8,7 @@
 ## ✨ API Logo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YRRLYB/-api/refs/heads/main/%E4%BC%8A%E5%88%A9%E5%B8%83api.png" alt="伊利布 API Logo" width="700"/>
+  <img src="https://github.com/YRRLYB/YRRLYB-API/blob/main/%E4%BC%8A%E5%88%A9%E5%B8%83api.png" alt="伊利布 API Logo" width="700"/>
 </p>
 
 ## 📌 接口调用说明
