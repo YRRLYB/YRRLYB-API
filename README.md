@@ -33,7 +33,6 @@
 | :--- | :--- | :--- |
 | **`random`** | 国内外通用 | `https://photo.yrrlyb.online/api.php?sort=random` |
 | **`randomlyb`** | 外网专用 (lyb线路) | `https://photo.yrrlyb.online/api.php?sort=randomlyb` |
-| **`ccrandom`** | 国内外通用 (cc线路) | `https://photo.yrrlyb.online/api.php?sort=ccrandom` |
 
 ### 2. 竖屏模式 (`sort=mp`) - 手机壁纸
 
@@ -41,7 +40,6 @@
 | :--- | :--- | :--- |
 | **`mp`** | 国内外通用 | `https://photo.yrrlyb.online/api.php?sort=mp` |
 | **`mplyb`** | 外网专用 (lyb线路) | `https://photo.yrrlyb.online/api.php?sort=mplyb` |
-| **`ccmp`** | 国内外通用 (cc线路) | `https://photo.yrrlyb.online/api.php?sort=ccmp` |
 
 ### 3. 横屏模式 (`sort=pc`) - 电脑壁纸
 
@@ -49,7 +47,6 @@
 | :--- | :--- | :--- |
 | **`pc`** | 国内外通用 | `https://photo.yrrlyb.online/api.php?sort=pc` |
 | **`pclyb`** | 外网专用 (lyb线路) | `https://photo.yrrlyb.online/api.php?sort=pclyb` |
-| **`ccpc`** | 国内外通用 (cc线路) | `https://photo.yrrlyb.online/api.php?sort=ccpc` |
 
 ---
 
@@ -59,5 +56,5 @@
 
 ## ⚖️ 服务条款 (Terms of Service)
 
-* **本api为个人搭建，为爱发电。禁止用在商业用途，本api仅供学习交流，图片版权归原作者所有，不能完全保证api的可用性，api禁止爬虫，有反爬虫机制** 
+* **本api为个人搭建，为爱发电。禁止用在商业用途，本api仅供学习交流，图片版权归原作者所有，不能完全保证api的可用性，api禁止爬虫** 
 * **api持续性开放并继续录入全新图片** 
